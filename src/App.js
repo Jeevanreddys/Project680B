@@ -510,7 +510,8 @@ const App = () => {
                       type="button"
                       onClick={handleDUPathsClick}
                     >
-                      Find DU Paths
+                      Find 
+                      DU Paths
                     </button>
                   </div>
                   <div class="col">
